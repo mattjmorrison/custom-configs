@@ -14,3 +14,5 @@
     email = mattjmorrison@mattjmorrison.com
 [push]
     default = matching
+[init]
+	templatedir = ~/.git-templates

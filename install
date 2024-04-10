@@ -16,3 +16,4 @@ symlink_file_in_home () {
 }
 
 symlink_file_in_home ".config/karabiner/karabiner.json"
+symlink_file_in_home ".gitconfig"
